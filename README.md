@@ -23,9 +23,9 @@
 
 ## 🟨 2월
 1. Python AI 프로젝트 제작
-2. 일본어 학습
+   [사진 첨부 LLM]
+3. 일본어 학습
 ### JLPT 일본어 학습
-
 [![JLPT Official Website](https://img.shields.io/badge/JLPT-Official%20Site-red?logo=googlechrome&logoColor=white)](https://www.jlpt.jp/e/)
 [![JLPT Practice Questions](https://img.shields.io/badge/JLPT-Practice%20Questions-green?logo=bookstack&logoColor=white)](https://www.jlpt.jp/e/samples/forlearners.html)
 [![JLPT Study Resources](https://img.shields.io/badge/JLPT-Study%20Resources-blue?logo=internetexplorer&logoColor=white)](https://jlptsensei.com/)
