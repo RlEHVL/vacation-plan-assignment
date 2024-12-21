@@ -4,6 +4,7 @@
 
 <img src="photo/다운로드.png" alt="plan" width="600">
 
+
 # 📅 1월~3월 학습 계획
 
 ## 🟦 1월
@@ -36,6 +37,10 @@
 ## 하고 있는 활동
 
 <img src="photo/다운로드1.png" alt="헷" width="600">
+
+<img src="photo/책1.png" alt="plan" width="150">
+<img src="photo/책2.png" alt="plan" width="150">
+<img src="photo/책3.png" alt="plan" width="150">
 
 ---
 ## 🗓 학습 계획 (1월 ~ 3월)
