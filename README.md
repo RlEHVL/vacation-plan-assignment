@@ -23,8 +23,9 @@
      - [My Programmers Profile](https://programmers.co.kr/learn/challenges?tab=all_challenges)
 
 ## 🟨 2월
-1. Python AI 프로젝트 제작
-   [사진 첨부 LLM]
+- **LLM 모델 학습 프로젝트**
+  [![NeoX Guide](https://img.shields.io/badge/GPT%20NeoX-Model%20Guide-blueviolet?logo=openaigym&logoColor=white)](https://github.com/EleutherAI/gpt-neox)
+
 3. 일본어 학습
 ### JLPT 일본어 학습
 [![JLPT Official Website](https://img.shields.io/badge/JLPT-Official%20Site-red?logo=googlechrome&logoColor=white)](https://www.jlpt.jp/e/)
@@ -40,6 +41,8 @@
 
 <img src="photo/책1.jpg" alt="plan" width="150"><img src="photo/책2.jpg" alt="plan" width="150"><img src="photo/책3.jpg" alt="plan" width="150">
 
+## 추후 도전
+SCPC
 
 ---
 ## 🗓 학습 계획 (1월 ~ 3월)
