@@ -42,7 +42,8 @@
 <img src="photo/책1.jpg" alt="plan" width="150"><img src="photo/책2.jpg" alt="plan" width="150"><img src="photo/책3.jpg" alt="plan" width="150">
 
 ## 추후 도전
-SCPC
+- **SCPC 알고리즘 도전**
+  [![SCPC Guide](https://img.shields.io/badge/SCPC%20Guide-Algorithm%20Contest-orange?logo=hackerrank&logoColor=white)](https://swexpertacademy.com/main/main.do)
 
 ---
 ## 🗓 학습 계획 (1월 ~ 3월)
