@@ -8,8 +8,13 @@
 
 ## 🟦 1월
 1. VR & C# 학습
-   - [Oculus Developer Guide](https://developer.oculus.com/documentation/unity/)
-   - [VR for Beginners by Udemy](https://www.udemy.com/course/vr-development/)
+    **Codeforces**  
+     ![Oculus Developer Guide]
+     - [Oculus Developer Guide](https://developer.oculus.com/documentation/unity/)
+     
+     **udemy**
+     ![VR for Beginners by Udemy]
+     - [VR for Beginners by Udemy](https://www.udemy.com/course/vr-development/)
 3. 알고리즘 공부  
    - **Codeforces**  
      ![Codeforces Badge](https://img.shields.io/badge/Codeforces-Algorithm-blue?logo=codeforces&logoColor=white)  
