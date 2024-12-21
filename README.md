@@ -38,9 +38,9 @@
 
 <img src="photo/다운로드1.png" alt="헷" width="600">
 
-<img src="photo/책1.png" alt="plan" width="150">
-<img src="photo/책2.png" alt="plan" width="150">
-<img src="photo/책3.png" alt="plan" width="150">
+<img src="photo/책1.jpg" alt="plan" width="150">
+<img src="photo/책2.jpg" alt="plan" width="150">
+<img src="photo/책3.jpg" alt="plan" width="150">
 
 
 ---
