@@ -54,20 +54,3 @@
 | **March**   | AR 프로젝트 제작           | [Unity AR Foundation](https://learn.unity.com/tutorial/ar-foundation) |
 
 
-## 📈 알고리즘 실적
-
-### 🔹 
-| Ai 경진대회         | LV  | Rank   |
-|--------------------|---------|--------|
-|                    | Lv.4       |   |
-### 🔹 Codeforces
-| Contest Name       | Rating  | Rank   |
-|--------------------|---------|--------|
-
-### 🔹 Programmers
-| Challenge Name          | Difficulty | Score  |
-|-------------------------|------------|--------|
-
----
-
-
